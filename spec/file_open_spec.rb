@@ -1,4 +1,4 @@
-require './lib/file_opener.rb'
+require './lib/file_manager.rb'
 
 describe FileManager do
   describe "#read_content" do
